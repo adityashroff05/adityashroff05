@@ -1,6 +1,6 @@
 ![logo](https://github.com/adityashroff05/adityashroff05/blob/main/Purple%20Modern%20Gaming%20Channel%20%20Banner%20Landscape.png)
 <h1 align="center">Hi 👋, I'm Aditya shroff</h1>
-<h3 align="center">A CSE student from MUJ.</h3>
+<h3 align="center">A Bachelor in Computer Applications student from MUJ.</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/adityashroff05/Aditya-Shroff/assets/142039211/53919d30-d894-4514-a22c-d75c9f1664dd.gif">
 
